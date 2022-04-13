@@ -1,0 +1,56 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  background-color: white;
+}
+
+.title {
+    text-align: center;
+    color: black;
+}
+
+.minister {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+}
+
+#img-div {
+    text-align: center;
+    color: black;
+}
+
+.h3 {
+    text-align: center;
+    color: black;
+}
+
+ul {
+    text-align: left;
+    line-height: 2.5;
+}
+
+#main {
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
+
+a:hover {
+  color: red;
+}
+
+#image {
+  border-style: outset;
+  border-color: black;
+}
+
+.quote {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+img{ 
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
